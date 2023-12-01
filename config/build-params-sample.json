@@ -1,0 +1,17 @@
+{
+    "namespace": "pappayalite-crm",
+    "build_name": "pappayalite-crm",
+    "build_domain": "app.pappayalite.com",
+    "odoo_username": "admin@pappaya.com",
+    "app_registry": "registry.pappayacloud.com:5000",
+    "app_repository": "pappayalite-crm",
+    "app_version": "0.0.1",
+    "max_cpu": "4000m",
+    "max_memory": "5000Mi",
+    "storage_class": "",
+    "smtp_host": "",
+    "smtp_port": "",
+    "smtp_user": "",
+    "smtp_password": "",
+    "smtp_protocol": ""
+}
